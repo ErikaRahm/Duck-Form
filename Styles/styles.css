@@ -34,8 +34,13 @@
     /* identical to box height */
     letter-spacing: 0.1em;
     text-transform:none;
-    color: rgba(254, 255, 255, 0.98);
+    color: rgba(240, 233, 233, 0.98);
     line-height: 30px;
+    width: 100%;
+    padding: 12px;
+    margin: 5px;
+    border: none;
+    border-bottom: 2px solid #9DBEBB;
 }
 
 .main-btn {
@@ -55,7 +60,7 @@
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #FFFFFF; 
-    margin-top: 50px;
+    margin-top: 80px;
     margin-bottom: 20px;
     margin-right: 110px;
     margin-left: 190px;
